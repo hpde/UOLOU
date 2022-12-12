@@ -1,7 +1,7 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema  https://www.spase-group.org/data/schema/spase-2_4_0.xsd">
  <Version>2.4.0</Version>
  <Repository>
-  <ResourceID>spase://UOLOU/Repository/SGO</ResourceID>
+  <ResourceID>spase://UOULU/Repository/SGO</ResourceID>
   <ResourceHeader>
    <ResourceName>Sodankylä Geophysical Observatory Data Archive</ResourceName>
    <ReleaseDate>2021-09-24T14:05:26</ReleaseDate>
